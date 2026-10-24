@@ -1,0 +1,267 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "MPT POP Katibung - Beranda" [ref=e4] [cursor=pointer]:
+        - /url: "#beranda"
+        - img "MPT POP Katibung" [ref=e5]
+      - navigation "Navigasi utama" [ref=e6]:
+        - link "Beranda" [ref=e7] [cursor=pointer]:
+          - /url: "#beranda"
+        - link "Tentang Kami" [ref=e8] [cursor=pointer]:
+          - /url: "#tentang"
+        - link "Paket Internet" [ref=e9] [cursor=pointer]:
+          - /url: "#paket"
+        - link "Area Layanan" [ref=e10] [cursor=pointer]:
+          - /url: "#area"
+        - link "FAQ" [ref=e11] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Kontak" [ref=e12] [cursor=pointer]:
+          - /url: "#kontak"
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: Internet Rumah & Bisnis
+          - heading [level=1] [ref=e18]:
+            - text: Internet Cepat,
+            - strong [ref=e19]: Stabil
+            - text: dan Terjangkau
+          - paragraph [ref=e20]: MPT POP Katibung menghadirkan koneksi internet berkualitas untuk rumah dan bisnis di Kecamatan Way Sulan dan sekitarnya. Nikmati internet cepat, stabil, dan harga terjangkau untuk mendukung semua aktivitas digital Anda.
+          - generic [ref=e21]:
+            - link "Lihat Paket Internet" [ref=e22] [cursor=pointer]:
+              - /url: "#paket"
+            - link "Hubungi Kami" [ref=e27] [cursor=pointer]:
+              - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+        - img "Pelanggan menikmati koneksi internet di rumah" [ref=e31]
+      - generic "Keunggulan layanan" [ref=e32]:
+        - generic [ref=e33]:
+          - article [ref=e34]:
+            - generic [ref=e38]:
+              - heading "Internet Cepat" [level=3] [ref=e39]
+              - paragraph [ref=e40]: Streaming, browsing dan aktivitas online lebih lancar
+          - article [ref=e41]:
+            - generic [ref=e45]:
+              - heading "Koneksi Stabil" [level=3] [ref=e46]
+              - paragraph [ref=e47]: Jaringan andal dan nyaman untuk kebutuhan sehari-hari
+          - article [ref=e48]:
+            - generic [ref=e52]:
+              - heading "Harga Terjangkau" [level=3] [ref=e53]
+              - paragraph [ref=e54]: Pilihan paket sesuai dengan kebutuhan Anda
+          - article [aria-hidden] [ref=e55]:
+            - generic [ref=e59]:
+              - heading [level=3] [ref=e60]: Internet Cepat
+              - paragraph [ref=e61]: Streaming, browsing dan aktivitas online lebih lancar
+          - article [aria-hidden] [ref=e62]:
+            - generic [ref=e66]:
+              - heading [level=3] [ref=e67]: Koneksi Stabil
+              - paragraph [ref=e68]: Jaringan andal dan nyaman untuk kebutuhan sehari-hari
+          - article [aria-hidden] [ref=e69]:
+            - generic [ref=e73]:
+              - heading [level=3] [ref=e74]: Harga Terjangkau
+              - paragraph [ref=e75]: Pilihan paket sesuai dengan kebutuhan Anda
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - img "Kantor MPT POP Katibung" [ref=e79]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]: Tentang Kami
+            - heading "MPT POP Katibung Solusi Internet untuk Masyarakat Lampung Selatan" [level=2] [ref=e83]:
+              - text: MPT POP Katibung
+              - generic [ref=e84]: Solusi Internet untuk Masyarakat Lampung Selatan
+          - paragraph [ref=e85]: MPT POP Katibung merupakan brand layanan internet yang dikelola oleh PT Jaringan Global Nusantara Solusi. Kami berfokus pada penyediaan akses internet yang cepat, stabil, dan terjangkau untuk masyarakat di wilayah Kecamatan Way Sulan, Lampung Selatan dan sekitarnya.
+          - paragraph [ref=e86]: Kami berkomitmen menghadirkan koneksi internet yang responsif, layanan yang profesional, dan paket yang sesuai dengan kebutuhan pelanggan, baik untuk rumah tangga, pelajar, maupun pelaku usaha.
+      - generic [ref=e87]:
+        - article [ref=e88]:
+          - heading "Internet Cepat" [level=3] [ref=e92]
+          - paragraph [ref=e93]: Streaming, browsing dan aktivitas online lebih lancar.
+        - article [ref=e94]:
+          - heading "Koneksi Stabil" [level=3] [ref=e98]
+          - paragraph [ref=e99]: Jaringan andal dan nyaman untuk kebutuhan sehari-hari.
+        - article [ref=e100]:
+          - heading "Harga Terjangkau" [level=3] [ref=e104]
+          - paragraph [ref=e105]: Pilihan paket sesuai dengan kebutuhan Anda.
+        - article [ref=e106]:
+          - heading "Dukungan Cepat" [level=3] [ref=e110]
+          - paragraph [ref=e111]: Tim kami siap membantu melalui WhatsApp dan email.
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e116]: Area Layanan
+          - heading [level=2] [ref=e117]:
+            - text: Menjangkau
+            - strong [ref=e118]: 3 Kecamatan
+            - text: di Lampung Selatan
+          - paragraph [ref=e119]: Jaringan kami menjangkau Kecamatan Way Sulan, Katibung, dan Candipuro di Kabupaten Lampung Selatan. Ketersediaan akhir akan dikonfirmasi berdasarkan titik lokasi pemasangan.
+        - link "Cek Ketersediaan di Lokasi Anda" [ref=e120] [cursor=pointer]:
+          - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+      - generic [ref=e123]:
+        - img "Peta cakupan layanan Lampung Selatan" [ref=e124]
+        - generic [ref=e125]:
+          - text: Cakupan utama
+          - strong [ref=e126]: 3 Kecamatan
+        - generic [ref=e127]:
+          - heading "Area Layanan Utama:" [level=3] [ref=e128]
+          - list [ref=e129]:
+            - listitem [ref=e130]: ✓ Kecamatan Way Sulan
+            - listitem [ref=e131]: ✓ Kecamatan Katibung
+            - listitem [ref=e132]: ✓ Kecamatan Candipuro
+            - listitem [ref=e133]: ✓ Kabupaten Lampung Selatan
+    - generic [ref=e135]:
+      - generic [ref=e136]:
+        - generic [ref=e137]: Paket Internet
+        - heading "Paket Internet untuk Kebutuhan Kamu" [level=2] [ref=e138]
+        - paragraph [ref=e139]: Pilih paket yang sesuai dengan aktivitas digital di rumah atau bisnis Anda.
+      - generic [ref=e140]:
+        - article [ref=e141]:
+          - heading "25 Mbps" [level=3] [ref=e146]
+          - list [ref=e147]:
+            - listitem [ref=e148]:
+              - generic [ref=e151]: Internet cepat untuk aktivitas sehari-hari
+            - listitem [ref=e152]:
+              - generic [ref=e155]: Cocok untuk rumah tangga
+            - listitem [ref=e156]:
+              - generic [ref=e159]: Streaming, browsing, belajar online
+          - generic [ref=e160]:
+            - text: Rp 177.600
+            - generic [ref=e161]: per bulan
+          - link "Pilih Paket" [ref=e162] [cursor=pointer]:
+            - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+        - article [ref=e163]:
+          - generic [ref=e164]: Paling Populer
+          - heading "35 Mbps" [level=3] [ref=e169]
+          - list [ref=e170]:
+            - listitem [ref=e171]:
+              - generic [ref=e174]: Koneksi lebih stabil
+            - listitem [ref=e175]:
+              - generic [ref=e178]: Cocok untuk keluarga dengan banyak perangkat
+            - listitem [ref=e179]:
+              - generic [ref=e182]: Streaming, gaming, video call lebih lancar
+          - generic [ref=e183]:
+            - text: Rp 222.000
+            - generic [ref=e184]: per bulan
+          - link "Pilih Paket" [ref=e185] [cursor=pointer]:
+            - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+        - article [ref=e186]:
+          - heading "50 Mbps" [level=3] [ref=e191]
+          - list [ref=e192]:
+            - listitem [ref=e193]:
+              - generic [ref=e196]: Performa maksimal
+            - listitem [ref=e197]:
+              - generic [ref=e200]: Cocok untuk rumah dan bisnis
+            - listitem [ref=e201]:
+              - generic [ref=e204]: Streaming 4K, gaming, download besar, work from home
+          - generic [ref=e205]:
+            - text: Rp 280.000
+            - generic [ref=e206]: per bulan
+          - link "Pilih Paket" [ref=e207] [cursor=pointer]:
+            - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+      - generic [ref=e208]:
+        - strong [ref=e212]: Gratis Biaya Pemasangan*
+        - paragraph [ref=e213]: "*Syarat & ketentuan berlaku. Kuota promo terbatas, hubungi sales kami untuk informasi lebih lanjut."
+    - generic [ref=e215]:
+      - generic [ref=e216]:
+        - generic [ref=e217]: Cara Berlangganan
+        - heading "Mudah dan Cepat" [level=2] [ref=e218]
+        - paragraph [ref=e219]: Hanya beberapa langkah untuk menikmati internet MPT POP Katibung di rumah atau tempat usaha Anda.
+      - generic [ref=e220]:
+        - article [ref=e221]:
+          - generic [ref=e222]: "1"
+          - heading "Hubungi Kami" [level=3] [ref=e226]
+          - paragraph [ref=e227]: Chat melalui WhatsApp atau email untuk konsultasi dan cek ketersediaan.
+          - text: →
+        - article [ref=e228]:
+          - generic [ref=e229]: "2"
+          - heading "Pilih Paket" [level=3] [ref=e233]
+          - paragraph [ref=e234]: Pilih paket internet yang sesuai dengan kebutuhan Anda.
+          - text: →
+        - article [ref=e235]:
+          - generic [ref=e236]: "3"
+          - heading "Proses Pemasangan" [level=3] [ref=e240]
+          - paragraph [ref=e241]: Tim kami menjadwalkan dan melakukan pemasangan di lokasi Anda.
+          - text: →
+        - article [ref=e242]:
+          - generic [ref=e243]: "4"
+          - heading "Internet Aktif" [level=3] [ref=e247]
+          - paragraph [ref=e248]: Nikmati koneksi internet cepat, stabil, dan terjangkau.
+    - generic [ref=e250]:
+      - generic [ref=e251]:
+        - generic [ref=e252]:
+          - generic [ref=e253]: Pertanyaan Umum
+          - heading "Pertanyaan yang Sering Diajukan" [level=2] [ref=e254]
+          - paragraph [ref=e255]: Temukan jawaban untuk pertanyaan seputar layanan MPT POP Katibung.
+        - link "Lihat Semua FAQ" [ref=e256] [cursor=pointer]:
+          - /url: "#kontak"
+      - generic [ref=e259]:
+        - article [ref=e260]:
+          - button "Apakah ada biaya pemasangan?" [ref=e261] [cursor=pointer]
+        - article [ref=e265]:
+          - button "Berapa lama proses pemasangan?" [ref=e266] [cursor=pointer]
+        - article [ref=e270]:
+          - button "Area mana saja yang sudah ter-cover?" [ref=e271] [cursor=pointer]
+        - article [ref=e275]:
+          - button "Apakah bisa untuk rumah dan bisnis?" [ref=e276] [cursor=pointer]
+        - article [ref=e280]:
+          - button "Bagaimana cara pembayarannya?" [ref=e281] [cursor=pointer]
+    - generic [ref=e286]:
+      - generic [ref=e287]:
+        - generic [ref=e288]: Hubungi Kami
+        - heading "Siap Membantu Kebutuhan Internet Anda" [level=2] [ref=e289]
+        - paragraph [ref=e290]: Konsultasi, cek ketersediaan area, atau pertanyaan lainnya, silakan hubungi tim kami.
+        - generic [ref=e291]:
+          - link "WhatsApp 0823 8226 4488 Chat dengan tim kami sekarang" [ref=e292] [cursor=pointer]:
+            - /url: https://wa.me/6282382264488?text=Halo%20MPT%20POP%20Katibung%2C%20saya%20ingin%20menanyakan%20layanan%20internet.
+            - generic [ref=e296]:
+              - generic [ref=e297]: WhatsApp
+              - strong [ref=e298]: 0823 8226 4488
+              - emphasis [ref=e299]: Chat dengan tim kami sekarang
+          - link "Email support@mptpopkatibung.id Kirim pertanyaan melalui email" [ref=e300] [cursor=pointer]:
+            - /url: mailto:support@mptpopkatibung.id
+            - generic [ref=e304]:
+              - generic [ref=e305]: Email
+              - strong [ref=e306]: support@mptpopkatibung.id
+              - emphasis [ref=e307]: Kirim pertanyaan melalui email
+      - generic [ref=e308]:
+        - generic [ref=e309]: Siap Membantu Anda
+        - img "Petugas layanan pelanggan MPT POP Katibung" [ref=e310]
+  - contentinfo [ref=e311]:
+    - generic [ref=e312]:
+      - generic [ref=e313]:
+        - img "MPT POP Katibung" [ref=e314]
+        - paragraph [ref=e315]: Solusi internet cepat, stabil, dan terjangkau untuk masyarakat di Kecamatan Way Sulan, Lampung Selatan dan sekitarnya.
+        - generic [ref=e316]:
+          - link "Facebook" [ref=e317] [cursor=pointer]:
+            - /url: "#beranda"
+          - link "Instagram" [ref=e320] [cursor=pointer]:
+            - /url: "#beranda"
+          - link "YouTube" [ref=e323] [cursor=pointer]:
+            - /url: "#beranda"
+      - generic [ref=e326]:
+        - heading "Menu" [level=3] [ref=e327]
+        - link "Beranda" [ref=e328] [cursor=pointer]:
+          - /url: "#beranda"
+        - link "Tentang Kami" [ref=e329] [cursor=pointer]:
+          - /url: "#tentang"
+        - link "Paket Internet" [ref=e330] [cursor=pointer]:
+          - /url: "#paket"
+        - link "Area Layanan" [ref=e331] [cursor=pointer]:
+          - /url: "#area"
+        - link "FAQ" [ref=e332] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Kontak" [ref=e333] [cursor=pointer]:
+          - /url: "#kontak"
+      - generic [ref=e334]:
+        - heading "Layanan" [level=3] [ref=e335]
+        - link "Internet Rumah" [ref=e336] [cursor=pointer]:
+          - /url: "#paket"
+        - link "Internet Bisnis" [ref=e337] [cursor=pointer]:
+          - /url: "#paket"
+        - link "Cek Area" [ref=e338] [cursor=pointer]:
+          - /url: "#area"
+        - link "Hubungi Kami" [ref=e339] [cursor=pointer]:
+          - /url: "#kontak"
+      - generic [ref=e340]:
+        - heading "Didukung oleh" [level=3] [ref=e341]
+        - img "Merah Putih Telematika" [ref=e342]
+    - generic [ref=e343]:
+      - paragraph [ref=e344]: Dikelola oleh PT Jaringan Global Nusantara Solusi. Bermitra dengan PT Merah Putih Telematika.
+      - paragraph [ref=e345]: © 2026 MPT POP Katibung. Semua hak dilindungi.
